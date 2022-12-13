@@ -49,6 +49,13 @@
 
 
 
+# for val in [1, 2, 3, 4, 5, [6, 7, 8, 5, 6]]:         
+#     # print(val)
+    # if  isinstance(val, (list, set, tuple)): 
+        # for i in val: 
+        #     print(i)      
+#     else:
+#         print(val)
 
 
 

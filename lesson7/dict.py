@@ -20,18 +20,18 @@
 # # # # print(type(user_data), user_data, user_data["ключь"], sep="\n")
 
 
-# # # user_data = {
-# # #     "1": "string",
-# # #     2: None,
-# # #     3: 45,
-# # #     4: 4.5,
-# # #     5: (),
-# # #     6: {},
-# # #     7: []
+# user_data = {
+#     "1": "string",
+#     2: None,
+#     3: 45,
+#     4: 4.5,
+#     5: (),
+#     6: {},
+#     7: []
     
-# # # }
+# }
 
-# # # print(user_data)
+# print(user_data)
 
 
 # # user_data = {
